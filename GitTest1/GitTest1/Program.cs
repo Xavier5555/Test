@@ -10,7 +10,7 @@ namespace GitTest1
     {
         static void Main(string[] args)
         {
-            //Comentari
+            //Comentari edicio
             for (int i = 0; i < 5; i++)
             {
                 Console.Write("Hola ({0})\n", i);
