@@ -10,7 +10,11 @@ namespace GitTest1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hola");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Write("Hola");
+            }
+            
         }
     }
 }
